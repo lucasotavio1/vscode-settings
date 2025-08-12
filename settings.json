@@ -1,4 +1,5 @@
 {
+    "window.zoomLevel": 0.5,
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
     "symbols.hidesExplorerArrows": false,
@@ -52,4 +53,5 @@
     "update.showReleaseNotes": false,
     "security.promptForLocalFileProtocolHandling": false,
     "editor.multiCursorLimit": 50000,
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
