@@ -1,11 +1,9 @@
 {
-    "window.zoomLevel": 1.0,
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
     "symbols.hidesExplorerArrows": false,
-    "workbench.colorTheme": "poimandres",
-    "workbench.preferredDarkColorTheme": "Oscura Dusk",
-    "workbench.preferredLightColorTheme": "Oscura Dusk",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+    "workbench.preferredLightColorTheme": "GitHub Light Default",
     "workbench.productIconTheme": "fluent-icons",
     "workbench.iconTheme": "symbols",
     "workbench.layoutControl.enabled": false,
@@ -37,7 +35,7 @@
     "workbench.editor.empty.hint": "hidden",
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
-    "editor.semanticHighlighting.enabled": true,
+    "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
     "editor.scrollbar.vertical": "hidden",
@@ -54,5 +52,4 @@
     "update.showReleaseNotes": false,
     "security.promptForLocalFileProtocolHandling": false,
     "editor.multiCursorLimit": 50000,
-
 }
