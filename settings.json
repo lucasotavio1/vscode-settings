@@ -56,12 +56,5 @@
     "update.showReleaseNotes": false,
     "security.promptForLocalFileProtocolHandling": false,
     "editor.multiCursorLimit": 50000,
-    "workbench.secondarySideBar.defaultVisibility": "hidden",
-
-    "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8",
-    "editor.formatOnSave": true
-    },
-    "python.languageServer": "Pylance",
-    "editor.defaultFormatter": "ms-python.autopep8",
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
