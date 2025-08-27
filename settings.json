@@ -18,6 +18,10 @@
     "editor.suggestSelection": "first",
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.hideCursorInOverviewRuler": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.reduceMotion": "off",
+    "terminal.integrated.smoothScrolling": true,
     "chat.commandCenter.enabled": false,
     "editor.tabSize": 3,
     "editor.minimap.enabled": false,
@@ -53,4 +57,11 @@
     "security.promptForLocalFileProtocolHandling": false,
     "editor.multiCursorLimit": 50000,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
+
+    "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true
+    },
+    "python.languageServer": "Pylance",
+    "editor.defaultFormatter": "ms-python.autopep8",
 }
